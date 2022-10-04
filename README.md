@@ -1,2 +1,2 @@
 # Heart-Disease-Classification
-This project leverages on machine learning to predict if a patient have heart disease or not.
+Using machine learning algorithm, we attempt to predict if a patient have heart disease or not based on the input feature.
